@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "role": "Admin",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "email": "bob@example.com",
+      "role": "User",
+      "active": false
+    },
+    {
+      "id": "414d",
+      "role": "User",
+      "name": "affsadsafs",
+      "email": "goforhimanshu012@gmail.com"
+    }
+  ],
+  "roles": [
+    {
+      "id": "7dbc",
+      "permissions": [
+        "Read",
+        "Write",
+        "Delete"
+      ],
+      "name": "Admin"
+    },
+    {
+      "id": "ff7f",
+      "permissions": [
+        "Read"
+      ],
+      "name": "User"
+    }
+  ]
+}
